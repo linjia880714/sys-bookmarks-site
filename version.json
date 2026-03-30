@@ -1,5 +1,11 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/linjia880714/sys-bookmarks-site/releases/latest",
-  "urlCN": "https://gitee.com/mylinklin/sys-bookmarks-site/releases/latest"
+  "version": "1.0.5",
+  "x86_64": {
+    "url":   "https://github.com/linjia880714/sys-bookmarks-site/releases/download/v1.0.5/SysBookmarks-1.0.5-x86_64.zip",
+    "urlCN": "https://gitee.com/mylinklin/sys-bookmarks-site/releases/download/v1.0.5/SysBookmarks-1.0.5-x86_64.zip"
+  },
+  "arm64": {
+    "url":   "https://github.com/linjia880714/sys-bookmarks-site/releases/download/v1.0.5/SysBookmarks-1.0.5-arm64.zip",
+    "urlCN": "https://gitee.com/mylinklin/sys-bookmarks-site/releases/download/v1.0.5/SysBookmarks-1.0.5-arm64.zip"
+  }
 }
